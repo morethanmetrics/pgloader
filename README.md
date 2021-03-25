@@ -1,3 +1,5 @@
+Forking because there is no distribution which contains the fix for dimitri/pgloader#1034. So must build from the sources.
+
 # PGLoader
 
 [![Build Status](https://travis-ci.org/dimitri/pgloader.svg?branch=master)](https://travis-ci.org/dimitri/pgloader)
